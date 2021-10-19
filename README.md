@@ -1,0 +1,2 @@
+# miniHackaton
+już wygraliśmy
