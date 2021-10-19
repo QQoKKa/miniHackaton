@@ -3,7 +3,7 @@ Już wygraliśmy
 
 Zalety : 
 > <ul>
-> <li>umiemy grac w rocket leagua ⚽ 🚗🔥 </li>
+> <li>umiemy grac w rocket league'a ⚽ 🚗🔥 </li>
 > <li>znamy html i css </li>
 > <ul>
 
